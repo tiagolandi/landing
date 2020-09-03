@@ -1,0 +1,27 @@
+/*footer.css*/
+
+.footer {
+  height: 200px;
+  background-color: #2C2B2B;
+  color: white;
+  padding: 1px;
+}
+.footer h1 {
+  text-align: center;
+  font-size: 30px;
+  text-shadow: 2px 2px 11px grey;
+  padding: 1px 0px 0px 4px;
+}
+.footer p {
+  text-align: center;
+  font-size: 15px;
+  font-style: italic;
+  font-weight: lighter;
+  opacity: 0.9;
+  padding: 1px 0px 0px 4px;
+}
+
+.footercontainer {
+  width: 900px;
+  margin: auto;
+}

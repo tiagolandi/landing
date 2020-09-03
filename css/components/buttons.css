@@ -1,0 +1,21 @@
+/*button.css*/
+
+.btn-dark {
+  color: white;
+  padding: 15px 30px;
+  border-radius: 9px;
+  font-weight: bold;
+  background: #000000;
+  text-decoration: none;
+  transition: background 0.9s ease;
+  transition: color 1.9s ease;
+  margin: 10px;
+  box-shadow: 1px 1px 5px 1px #952a22;
+}
+.btn-dark:hover {
+  opacity: 1;
+  background: #D13232;
+  text-decoration: none;
+  color: white;
+  margin: 10px;
+}
